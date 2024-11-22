@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("övning 3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46f8657f50521d04206720d2f28c72ecf1af63f7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db223ae3f2139ced5dee7e70ababe82869888295")]
 [assembly: System.Reflection.AssemblyProductAttribute("övning 3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("övning 3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
